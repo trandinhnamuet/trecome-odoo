@@ -1,0 +1,1 @@
+ssh -i "C:\Users\Admin\.ssh\trecome\trecome.key" ubuntu@150.230.108.164
